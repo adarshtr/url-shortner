@@ -18,4 +18,4 @@ Sample response
 ```
 
 
-Alternatively, open `http://localhost:8000` and enter URL. 
+Alternatively, open `http://localhost:8000` in browser and enter URL. 
